@@ -1,0 +1,7 @@
+
+.fondo {
+	height: 1200px;
+	background-image: url(../imagenes/fondo-2.jpg); 
+	background-repeat: repeat;
+	background-position: center;
+}
